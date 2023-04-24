@@ -45,7 +45,7 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "CI = npm run build",
+    "build": "CI = true",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
